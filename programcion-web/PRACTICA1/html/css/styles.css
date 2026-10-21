@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2b2b2b;
+    color: #f2f2f2;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+header {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: #e63946;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #ffffff;
+    background-color: #e63946;
+    text-decoration: underline;
+}
+
+main {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+#resumen,
+#curiosidades {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+img {
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: #1a1a1a;
+    color: white;
+    font-size: 16px;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #e63946;
+}

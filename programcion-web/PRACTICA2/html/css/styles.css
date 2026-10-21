@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0a1128;
+    color: #e0e6f0;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #06091c;
+    padding: 20px;
+}
+
+nav a {
+    color: #7fa8d9;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+    padding: 15px;
+}
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+
+
+
+
+#habilidades ul {
+    display: flex;
+    justify-content: center;
+      gap: 15px;
+    list-style: none;
+    padding: 0;
+}
+
+
+
+
+#habilidades li {
+    font-size: 16px;
+}
+
+#habilidades li:not(:last-child)::after {
+    content: "|";
+    margin-left: 15px;
+    color: #7fa8d9;
+}
+
+
+
+
+
+.galeria-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+    margin-top: 20px;
+}
+
+
+
+
+.galeria-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #16213e;
+    color: #e0e6f0;
+    font-size: 16px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #7fa8d9;
+    color: #0a1128;
+}
