@@ -1,0 +1,201 @@
+IdReview,IdCliente,IdProducto,Fecha,Comentario,Rating
+W0001,C007,P016,2024-10-23,Producto llegó rápido y funciona perfecto. Muy recomendable.,4
+W0002,C028,P005,2024-10-15,Gran relación calidad-precio. Muy recomendable.,3
+W0003,C035,P020,2025-02-02,"Entrega correcta, sin comentarios adicionales. OK.",5
+W0004,C021,P009,2025-04-24,"Producto recibido, cumple su función. OK.",4
+W0005,C030,P008,2025-03-25,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",1
+W0006,C021,P016,2025-03-16,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",3
+W0007,C018,P011,2024-12-03,"Es lo que esperaba, nada excepcional. OK.",1
+W0008,C013,P017,2025-01-06,"Calidad superior, muy contento. Muy recomendable.",5
+W0009,C031,P008,2025-01-27,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",1
+W0010,C019,P003,2025-04-10,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",5
+W0011,C031,P012,2025-02-08,Envío tardío y producto dañado. No volvería a comprar.,5
+W0012,C023,P011,2025-04-10,"Es lo que esperaba, nada excepcional. OK.",3
+W0013,C008,P008,2025-07-14,"Es lo que esperaba, nada excepcional. OK.",5
+W0014,C013,P006,2025-04-25,"Calidad superior, muy contento. Muy recomendable.",5
+W0015,C039,P017,2025-06-06,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0016,C024,P008,2024-09-16,"Me encanta este producto, excelente calidad. Muy recomendable.",5
+W0017,C018,P005,2024-12-04,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0018,C032,P005,2024-11-24,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0019,C031,P016,2025-08-18,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",3
+W0020,C008,P016,2025-01-05,"Entrega correcta, sin comentarios adicionales. OK.",1
+W0021,C004,P019,2025-04-11,Gran relación calidad-precio. Muy recomendable.,1
+W0022,C008,P008,2024-11-07,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",5
+W0023,C015,P020,2025-01-26,"Entrega correcta, sin comentarios adicionales. OK.",4
+W0024,C038,P010,2024-11-26,"Es lo que esperaba, nada excepcional. OK.",5
+W0025,C040,P002,2025-05-30,"Producto recibido, cumple su función. OK.",2
+W0026,C006,P009,2024-12-05,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",1
+W0027,C001,P006,2025-01-16,Gran relación calidad-precio. Muy recomendable.,3
+W0028,C015,P002,2024-09-19,Producto llegó rápido y funciona perfecto. Muy recomendable.,4
+W0029,C015,P003,2024-10-10,Satisface lo básico. OK.,2
+W0030,C008,P014,2025-04-30,"No funciona como esperaba, decepcionado. No volvería a comprar.",2
+W0031,C004,P003,2024-11-13,Producto llegó rápido y funciona perfecto. Muy recomendable.,5
+W0032,C029,P010,2024-09-20,Producto llegó rápido y funciona perfecto. Muy recomendable.,4
+W0033,C033,P009,2025-08-03,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",5
+W0034,C028,P002,2025-05-08,Satisface lo básico. OK.,1
+W0035,C015,P003,2024-11-17,Satisface lo básico. OK.,1
+W0036,C037,P009,2025-01-16,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",5
+W0037,C018,P015,2025-02-02,Gran relación calidad-precio. Muy recomendable.,4
+W0038,C031,P003,2025-04-02,Producto llegó rápido y funciona perfecto. Muy recomendable.,1
+W0039,C022,P006,2025-04-19,"Calidad superior, muy contento. Muy recomendable.",4
+W0040,C003,P018,2025-05-07,Envío tardío y producto dañado. No volvería a comprar.,3
+W0041,C026,P004,2024-10-12,"Producto recibido, cumple su función. OK.",5
+W0042,C027,P015,2025-03-12,Gran relación calidad-precio. Muy recomendable.,5
+W0043,C029,P016,2025-04-30,"Información suficiente, sin mayor novedad. OK.",5
+W0044,C019,P005,2025-07-13,"Calidad superior, muy contento. Muy recomendable.",1
+W0045,C016,P020,2024-12-05,"Es lo que esperaba, nada excepcional. OK.",1
+W0046,C027,P018,2025-01-20,"Me encanta este producto, excelente calidad. Muy recomendable.",1
+W0047,C032,P005,2024-12-27,"Es lo que esperaba, nada excepcional. OK.",3
+W0048,C031,P014,2025-01-23,"Información suficiente, sin mayor novedad. OK.",5
+W0049,C025,P005,2024-12-27,Gran relación calidad-precio. Muy recomendable.,2
+W0050,C018,P003,2025-03-23,"Entrega correcta, sin comentarios adicionales. OK.",5
+W0051,C001,P009,2024-11-17,Producto llegó rápido y funciona perfecto. Muy recomendable.,5
+W0052,C010,P016,2025-03-21,"Calidad superior, muy contento. Muy recomendable.",3
+W0053,C035,P018,2025-06-09,Producto llegó rápido y funciona perfecto. Muy recomendable.,2
+W0054,C025,P019,2025-08-22,"Calidad superior, muy contento. Muy recomendable.",3
+W0055,C025,P016,2025-01-03,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",1
+W0056,C033,P005,2025-07-24,"Es lo que esperaba, nada excepcional. OK.",4
+W0057,C034,P004,2025-07-02,"Producto recibido, cumple su función. OK.",4
+W0058,C005,P005,2025-03-24,Envío tardío y producto dañado. No volvería a comprar.,5
+W0059,C006,P013,2025-03-03,Satisface lo básico. OK.,3
+W0060,C035,P016,2025-05-16,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0061,C006,P008,2024-10-24,"Me encanta este producto, excelente calidad. Muy recomendable.",1
+W0062,C011,P015,2025-08-21,"Muy mala calidad, se rompió rápido. No volvería a comprar.",3
+W0063,C019,P002,2025-07-01,"Calidad superior, muy contento. Muy recomendable.",2
+W0064,C027,P017,2025-06-18,"No funciona como esperaba, decepcionado. No volvería a comprar.",2
+W0065,C040,P003,2024-09-29,Satisface lo básico. OK.,2
+W0066,C038,P016,2024-10-22,"Calidad superior, muy contento. Muy recomendable.",3
+W0067,C017,P015,2025-04-19,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",5
+W0068,C005,P006,2024-11-17,Producto llegó rápido y funciona perfecto. Muy recomendable.,3
+W0069,C017,P014,2025-06-04,Envío tardío y producto dañado. No volvería a comprar.,4
+W0070,C007,P016,2025-03-14,Gran relación calidad-precio. Muy recomendable.,5
+W0071,C019,P010,2025-04-26,"Calidad superior, muy contento. Muy recomendable.",1
+W0072,C004,P019,2025-04-20,"Entrega correcta, sin comentarios adicionales. OK.",2
+W0073,C023,P020,2024-10-31,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",3
+W0074,C007,P005,2025-04-08,"Producto recibido, cumple su función. OK.",4
+W0075,C038,P002,2025-07-29,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",3
+W0076,C027,P011,2024-12-11,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",3
+W0077,C033,P017,2025-05-05,"Información suficiente, sin mayor novedad. OK.",4
+W0078,C022,P010,2025-08-06,"Entrega correcta, sin comentarios adicionales. OK.",2
+W0079,C026,P008,2025-03-10,Satisface lo básico. OK.,1
+W0080,C001,P013,2025-01-24,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0081,C038,P009,2025-07-20,Producto llegó rápido y funciona perfecto. Muy recomendable.,2
+W0082,C002,P016,2025-03-30,Pésima atención al cliente. No volvería a comprar.,5
+W0083,C005,P008,2024-09-20,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",3
+W0084,C008,P014,2025-04-11,"Me encanta este producto, excelente calidad. Muy recomendable.",4
+W0085,C007,P004,2025-07-06,Gran relación calidad-precio. Muy recomendable.,4
+W0086,C024,P015,2025-02-11,Pésima atención al cliente. No volvería a comprar.,5
+W0087,C027,P005,2024-11-02,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",4
+W0088,C003,P009,2025-01-29,"No funciona como esperaba, decepcionado. No volvería a comprar.",4
+W0089,C024,P008,2024-12-09,Producto llegó rápido y funciona perfecto. Muy recomendable.,3
+W0090,C026,P002,2025-01-24,"Me encanta este producto, excelente calidad. Muy recomendable.",1
+W0091,C039,P007,2025-03-27,"Producto recibido, cumple su función. OK.",2
+W0092,C037,P005,2025-05-30,Gran relación calidad-precio. Muy recomendable.,5
+W0093,C015,P007,2024-11-12,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",1
+W0094,C010,P009,2025-05-08,Satisface lo básico. OK.,2
+W0095,C002,P004,2025-05-15,Producto llegó rápido y funciona perfecto. Muy recomendable.,5
+W0096,C002,P011,2025-07-11,"Me encanta este producto, excelente calidad. Muy recomendable.",4
+W0097,C008,P017,2025-01-27,"Entrega correcta, sin comentarios adicionales. OK.",3
+W0098,C038,P017,2025-05-23,Gran relación calidad-precio. Muy recomendable.,5
+W0099,C034,P002,2025-08-13,"Me encanta este producto, excelente calidad. Muy recomendable.",4
+W0100,C028,P013,2024-09-14,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",4
+W0101,C006,P003,2025-08-11,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",2
+W0102,C040,P009,2024-09-14,Pésima atención al cliente. No volvería a comprar.,3
+W0103,C039,P013,2024-12-29,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",5
+W0104,C007,P014,2024-10-13,"Producto recibido, cumple su función. OK.",5
+W0105,C028,P007,2025-02-14,"No funciona como esperaba, decepcionado. No volvería a comprar.",3
+W0106,C026,P015,2025-04-06,"Me encanta este producto, excelente calidad. Muy recomendable.",4
+W0107,C017,P011,2024-09-27,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",4
+W0108,C006,P003,2025-02-04,"Producto recibido, cumple su función. OK.",1
+W0109,C009,P012,2024-11-30,Pésima atención al cliente. No volvería a comprar.,5
+W0110,C008,P011,2025-08-18,"Calidad superior, muy contento. Muy recomendable.",3
+W0111,C020,P020,2024-12-28,Gran relación calidad-precio. Muy recomendable.,2
+W0112,C031,P005,2025-03-18,"Me encanta este producto, excelente calidad. Muy recomendable.",5
+W0113,C008,P012,2025-05-21,Satisface lo básico. OK.,4
+W0114,C040,P018,2025-08-31,Pésima atención al cliente. No volvería a comprar.,5
+W0115,C002,P009,2025-03-24,Producto llegó rápido y funciona perfecto. Muy recomendable.,3
+W0116,C012,P001,2024-10-12,Satisface lo básico. OK.,4
+W0117,C010,P003,2025-07-29,"Producto recibido, cumple su función. OK.",5
+W0118,C025,P007,2025-06-25,Producto llegó rápido y funciona perfecto. Muy recomendable.,3
+W0119,C021,P010,2024-11-12,Satisface lo básico. OK.,1
+W0120,C010,P002,2025-08-19,Gran relación calidad-precio. Muy recomendable.,1
+W0121,C029,P009,2024-11-07,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",4
+W0122,C018,P014,2025-07-17,Gran relación calidad-precio. Muy recomendable.,3
+W0123,C008,P014,2025-01-07,Gran relación calidad-precio. Muy recomendable.,5
+W0124,C003,P010,2025-08-16,Gran relación calidad-precio. Muy recomendable.,1
+W0125,C020,P007,2025-05-06,"Información suficiente, sin mayor novedad. OK.",3
+W0126,C008,P011,2025-06-16,"Calidad superior, muy contento. Muy recomendable.",2
+W0127,C035,P013,2024-12-01,Satisface lo básico. OK.,3
+W0128,C026,P003,2025-02-02,"Producto recibido, cumple su función. OK.",1
+W0129,C005,P015,2025-02-06,Satisface lo básico. OK.,5
+W0130,C027,P013,2025-09-03,"Calidad superior, muy contento. Muy recomendable.",3
+W0131,C040,P006,2025-07-30,Envío tardío y producto dañado. No volvería a comprar.,4
+W0132,C016,P004,2024-12-19,"Calidad superior, muy contento. Muy recomendable.",1
+W0133,C020,P013,2025-03-27,"Información suficiente, sin mayor novedad. OK.",2
+W0134,C033,P003,2024-12-26,Pésima atención al cliente. No volvería a comprar.,2
+W0135,C023,P012,2025-05-16,"Información suficiente, sin mayor novedad. OK.",1
+W0136,C017,P005,2025-06-27,Gran relación calidad-precio. Muy recomendable.,1
+W0137,C032,P006,2024-11-21,Pésima atención al cliente. No volvería a comprar.,4
+W0138,C040,P019,2025-06-28,Producto llegó rápido y funciona perfecto. Muy recomendable.,4
+W0139,C031,P003,2025-04-26,Producto llegó rápido y funciona perfecto. Muy recomendable.,5
+W0140,C023,P002,2025-01-20,Envío tardío y producto dañado. No volvería a comprar.,4
+W0141,C004,P002,2025-08-05,Producto llegó rápido y funciona perfecto. Muy recomendable.,1
+W0142,C039,P020,2024-11-20,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",5
+W0143,C029,P002,2024-10-15,Satisface lo básico. OK.,2
+W0144,C039,P011,2025-08-13,"No funciona como esperaba, decepcionado. No volvería a comprar.",4
+W0145,C022,P004,2024-12-29,"Producto recibido, cumple su función. OK.",2
+W0146,C016,P002,2024-12-19,"Entrega correcta, sin comentarios adicionales. OK.",5
+W0147,C011,P020,2025-02-27,Producto llegó rápido y funciona perfecto. Muy recomendable.,4
+W0148,C039,P011,2025-08-11,Producto llegó rápido y funciona perfecto. Muy recomendable.,3
+W0149,C036,P004,2025-05-07,Envío tardío y producto dañado. No volvería a comprar.,5
+W0150,C022,P005,2025-03-18,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",3
+W0151,C009,P013,2025-04-08,"Muy mala calidad, se rompió rápido. No volvería a comprar.",5
+W0152,C022,P013,2025-07-28,Satisface lo básico. OK.,4
+W0153,C024,P017,2025-06-13,Producto llegó rápido y funciona perfecto. Muy recomendable.,2
+W0154,C032,P011,2025-06-26,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",1
+W0155,C007,P010,2024-12-18,Pésima atención al cliente. No volvería a comprar.,1
+W0156,C040,P011,2025-06-27,"Calidad superior, muy contento. Muy recomendable.",2
+W0157,C040,P006,2025-02-01,"Información suficiente, sin mayor novedad. OK.",1
+W0158,C024,P014,2025-01-29,"No funciona como esperaba, decepcionado. No volvería a comprar.",5
+W0159,C029,P010,2025-04-08,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",4
+W0160,C024,P007,2025-01-31,Pésima atención al cliente. No volvería a comprar.,4
+W0161,C025,P010,2025-06-23,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",2
+W0162,C009,P020,2024-10-20,"Producto recibido, cumple su función. OK.",4
+W0163,C036,P012,2025-07-12,Satisface lo básico. OK.,3
+W0164,C011,P003,2025-06-30,Gran relación calidad-precio. Muy recomendable.,4
+W0165,C015,P003,2025-08-31,"Es lo que esperaba, nada excepcional. OK.",4
+W0166,C026,P002,2025-02-28,"No funciona como esperaba, decepcionado. No volvería a comprar.",1
+W0167,C015,P012,2024-09-13,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0168,C009,P005,2024-09-22,"Calidad superior, muy contento. Muy recomendable.",2
+W0169,C029,P016,2025-09-04,"Muy mala calidad, se rompió rápido. No volvería a comprar.",3
+W0170,C010,P007,2024-12-17,Pésima atención al cliente. No volvería a comprar.,4
+W0171,C019,P004,2025-08-20,"Me encanta este producto, excelente calidad. Muy recomendable.",2
+W0172,C040,P014,2025-01-01,"Muy mala calidad, se rompió rápido. No volvería a comprar.",5
+W0173,C002,P018,2025-05-13,Pésima atención al cliente. No volvería a comprar.,2
+W0174,C028,P010,2025-05-13,Producto llegó rápido y funciona perfecto. Muy recomendable.,5
+W0175,C012,P014,2024-12-19,"Muy mala calidad, se rompió rápido. No volvería a comprar.",3
+W0176,C034,P003,2024-12-04,Pésima atención al cliente. No volvería a comprar.,1
+W0177,C031,P013,2025-03-06,"Calidad superior, muy contento. Muy recomendable.",3
+W0178,C023,P001,2025-05-13,"Es lo que esperaba, nada excepcional. OK.",1
+W0179,C022,P019,2024-12-08,Producto llegó rápido y funciona perfecto. Muy recomendable.,3
+W0180,C030,P006,2024-10-25,"Entrega correcta, sin comentarios adicionales. OK.",2
+W0181,C005,P005,2025-08-26,"Entrega correcta, sin comentarios adicionales. OK.",3
+W0182,C003,P007,2025-04-05,"Producto recibido, cumple su función. OK.",3
+W0183,C026,P017,2025-01-14,Satisface lo básico. OK.,3
+W0184,C013,P002,2024-10-13,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0185,C008,P009,2025-02-21,"Entrega correcta, sin comentarios adicionales. OK.",4
+W0186,C022,P013,2024-09-24,"Entrega correcta, sin comentarios adicionales. OK.",4
+W0187,C034,P012,2025-02-08,"Me encanta este producto, excelente calidad. Muy recomendable.",1
+W0188,C039,P014,2024-12-08,"Información suficiente, sin mayor novedad. OK.",3
+W0189,C007,P011,2025-04-10,Producto llegó rápido y funciona perfecto. Muy recomendable.,4
+W0190,C028,P020,2025-03-18,"Calidad superior, muy contento. Muy recomendable.",4
+W0191,C023,P002,2025-04-26,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",1
+W0192,C026,P003,2025-08-29,"Muy satisfecho con la compra, lo recomiendo. Muy recomendable.",2
+W0193,C029,P020,2025-05-16,"Me encanta este producto, excelente calidad. Muy recomendable.",3
+W0194,C025,P012,2024-11-08,"Producto recibido, cumple su función. OK.",2
+W0195,C024,P015,2024-11-24,"Me encanta este producto, excelente calidad. Muy recomendable.",2
+W0196,C024,P017,2025-05-09,Producto llegó rápido y funciona perfecto. Muy recomendable.,1
+W0197,C012,P001,2024-11-30,"No cumple con lo anunciado, insatisfecho. No volvería a comprar.",1
+W0198,C017,P009,2024-11-04,"Información suficiente, sin mayor novedad. OK.",3
+W0199,C013,P016,2025-01-25,"Me encanta este producto, excelente calidad. Muy recomendable.",2
+W0200,C006,P015,2024-10-07,"Es lo que esperaba, nada excepcional. OK.",3

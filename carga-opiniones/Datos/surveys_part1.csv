@@ -1,0 +1,501 @@
+IdOpinion,IdCliente,IdProducto,Fecha,Comentario,Clasificación,PuntajeSatisfacción,Fuente
+1,8537,366,2025-07-15,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+2,2721,667,2024-12-07,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+3,8424,953,2025-06-20,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+4,9672,961,2025-08-17,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+5,8018,607,2024-10-22,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+6,6119,89,2025-03-06,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+7,4890,478,2025-07-19,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+8,415,388,2025-02-06,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+9,6110,970,2024-09-19,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+10,8693,48,2025-05-29,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+11,9269,74,2025-02-07,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+12,3734,34,2025-05-30,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+13,3629,930,2025-04-27,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+14,1953,369,2025-06-23,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+15,253,385,2025-04-05,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+16,8697,750,2025-04-25,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+17,2756,339,2024-12-03,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+18,9132,390,2025-01-21,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+19,1370,393,2024-12-07,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+20,6506,271,2025-01-15,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+21,8571,835,2025-03-04,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+22,3635,977,2025-04-13,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+23,3407,712,2025-01-30,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+24,7342,386,2025-07-13,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+25,6272,27,2025-07-24,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+26,3318,654,2025-08-20,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+27,552,383,2025-04-12,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+28,6660,592,2025-04-08,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+29,539,957,2025-08-06,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+30,6473,144,2025-02-12,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+31,7512,765,2024-12-26,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+32,6558,953,2024-09-14,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+33,2699,19,2024-09-18,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+34,996,340,2025-09-10,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+35,5820,771,2024-12-04,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+36,8344,733,2024-12-11,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+37,943,705,2025-07-20,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+38,6554,477,2025-08-29,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+39,5662,513,2025-04-02,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+40,9665,701,2025-07-16,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+41,3803,446,2025-01-19,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+42,9881,851,2025-06-13,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+43,7334,376,2025-01-17,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+44,1287,46,2025-01-21,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+45,6817,323,2025-01-12,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+46,2399,618,2025-05-17,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+47,7073,122,2025-03-26,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+48,1781,184,2025-08-06,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+49,3209,290,2025-08-25,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+50,5704,991,2025-09-07,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+51,7496,889,2025-04-15,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+52,8078,917,2024-10-25,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+53,1574,779,2024-09-25,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+54,9647,768,2024-11-10,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+55,3032,856,2025-01-06,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+56,122,378,2025-08-09,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+57,9945,207,2025-09-03,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+58,8267,917,2025-08-05,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+59,7131,149,2025-06-20,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+60,8691,962,2025-05-19,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+61,9807,632,2024-10-08,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+62,9194,909,2025-02-23,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+63,5358,79,2024-11-30,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+64,3632,82,2025-06-06,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+65,6367,635,2025-01-02,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+66,5529,889,2024-12-10,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+67,84,317,2025-04-23,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+68,2371,115,2025-07-02,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+69,2560,933,2025-08-08,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+70,208,462,2024-12-06,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+71,7885,717,2025-08-15,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+72,7614,609,2025-07-07,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+73,6509,455,2024-11-29,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+74,1488,637,2024-10-08,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+75,8128,503,2025-03-21,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+76,2657,753,2024-11-09,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+77,8303,236,2024-10-24,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+78,8796,791,2024-11-02,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+79,8093,421,2025-03-05,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+80,5311,112,2025-05-28,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+81,4143,446,2025-08-13,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+82,8005,627,2025-08-20,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+83,705,48,2024-09-15,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+84,3792,337,2025-01-03,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+85,8455,749,2024-10-14,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+86,5177,672,2025-01-08,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+87,5361,774,2024-11-04,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+88,6865,864,2024-12-26,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+89,9351,971,2025-04-27,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+90,4621,570,2025-08-04,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+91,3552,136,2024-11-30,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+92,1315,85,2025-07-28,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+93,4734,152,2024-11-15,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+94,7080,801,2025-06-11,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+95,5688,725,2025-04-23,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+96,5127,332,2025-03-09,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+97,4002,697,2025-02-03,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+98,8606,153,2025-03-01,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+99,677,285,2025-03-05,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+100,4532,970,2025-08-28,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+101,850,710,2024-10-22,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+102,9156,443,2025-07-21,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+103,5397,672,2024-11-23,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+104,8901,929,2024-12-15,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+105,8473,87,2025-02-13,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+106,2046,565,2025-07-17,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+107,9046,377,2025-02-02,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+108,3398,530,2024-12-02,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+109,2410,266,2025-01-30,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+110,927,539,2024-10-25,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+111,4701,443,2025-09-03,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+112,274,693,2025-04-12,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+113,6821,540,2024-09-21,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+114,2309,771,2025-09-09,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+115,1558,644,2024-10-30,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+116,2057,76,2025-08-23,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+117,5784,703,2025-04-05,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+118,9843,560,2024-12-07,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+119,9485,893,2024-11-25,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+120,4194,46,2025-02-02,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+121,5543,548,2025-03-18,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+122,1108,747,2025-07-25,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+123,3355,852,2025-03-22,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+124,382,131,2024-12-19,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+125,3491,875,2024-11-06,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+126,1780,909,2025-04-23,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+127,1267,425,2025-03-06,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+128,7340,940,2025-05-29,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+129,8434,704,2025-05-24,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+130,8234,980,2025-07-01,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+131,4262,655,2024-12-19,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+132,5829,364,2025-04-29,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+133,1866,649,2025-01-12,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+134,8608,572,2025-08-27,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+135,8293,197,2025-07-23,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+136,6248,70,2025-03-19,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+137,4600,869,2025-06-01,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+138,8720,157,2025-03-18,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+139,9715,889,2025-08-29,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+140,821,637,2025-06-05,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+141,2439,779,2024-11-14,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+142,1339,274,2025-01-03,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+143,7504,454,2025-04-04,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+144,8142,522,2025-07-18,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+145,378,604,2024-12-31,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+146,4941,909,2024-10-18,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+147,8162,201,2025-05-08,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+148,8492,570,2025-02-04,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+149,1115,821,2025-01-24,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+150,7991,889,2025-08-21,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+151,6542,483,2025-08-09,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+152,2335,783,2025-07-29,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+153,947,467,2025-04-17,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+154,8582,978,2024-10-30,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+155,7282,857,2025-09-10,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+156,1896,430,2025-02-21,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+157,8328,735,2024-12-28,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+158,283,87,2025-06-03,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+159,930,146,2025-08-10,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+160,826,644,2025-02-24,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+161,6587,919,2025-01-16,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+162,804,487,2025-07-02,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+163,7129,61,2024-10-27,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+164,6238,565,2025-04-16,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+165,1527,884,2025-02-03,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+166,2313,215,2025-03-16,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+167,6680,126,2024-10-23,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+168,9909,139,2025-02-12,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+169,5304,705,2025-05-11,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+170,7079,469,2025-09-12,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+171,522,993,2025-09-10,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+172,1214,538,2025-06-16,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+173,6999,486,2025-05-16,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+174,2494,10,2025-06-27,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+175,3525,703,2025-06-23,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+176,868,386,2025-09-12,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+177,2057,523,2025-04-28,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+178,2231,891,2024-11-09,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+179,4815,716,2025-08-26,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+180,4365,44,2024-11-25,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+181,4496,666,2025-03-19,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+182,3043,378,2025-08-13,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+183,8847,55,2025-03-28,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+184,9376,930,2024-11-09,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+185,8809,277,2024-11-12,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+186,3995,466,2025-06-17,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+187,2988,777,2025-02-09,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+188,5113,215,2025-01-24,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+189,9685,280,2024-09-30,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+190,7211,965,2024-11-22,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+191,4519,617,2025-07-08,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+192,8124,360,2024-11-13,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+193,2029,429,2024-10-12,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+194,4465,990,2025-03-12,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+195,3986,563,2025-09-09,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+196,1169,602,2025-03-09,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+197,878,130,2025-03-11,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+198,3335,906,2025-05-11,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+199,2896,736,2025-04-01,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+200,6568,38,2024-09-22,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+201,7719,104,2024-12-03,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+202,9918,459,2025-07-13,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+203,205,967,2025-06-14,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+204,9617,828,2025-05-18,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+205,9251,698,2025-05-30,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+206,190,148,2025-03-08,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+207,3773,408,2025-03-11,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+208,791,420,2025-02-10,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+209,9539,338,2025-02-05,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+210,5775,936,2024-12-27,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+211,3916,672,2025-03-09,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+212,713,390,2025-06-01,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+213,8057,92,2025-06-23,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+214,7560,346,2024-12-04,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+215,9516,289,2025-02-11,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+216,7297,596,2024-09-22,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+217,4943,179,2024-10-14,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+218,6610,608,2025-02-22,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+219,5644,610,2025-04-24,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+220,3455,37,2025-07-27,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+221,353,124,2025-01-01,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+222,8237,959,2025-04-26,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+223,6003,957,2025-07-11,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+224,1751,178,2024-11-30,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+225,9563,997,2024-10-30,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+226,6342,639,2024-11-20,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+227,8241,541,2024-09-25,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+228,7725,301,2024-10-16,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+229,4623,224,2025-04-18,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+230,1044,285,2025-02-09,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+231,6845,474,2024-12-03,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+232,8266,750,2024-11-07,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+233,1677,547,2025-05-26,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+234,3394,724,2024-10-16,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+235,5975,159,2024-09-24,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+236,3054,824,2025-07-18,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+237,9957,487,2025-05-08,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+238,2898,426,2025-01-02,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+239,8280,407,2024-12-17,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+240,9018,297,2024-11-18,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+241,8962,946,2025-01-26,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+242,4348,629,2025-08-03,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+243,5667,260,2025-06-08,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+244,4864,16,2025-08-29,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+245,1276,602,2025-05-01,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+246,5468,823,2025-09-01,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+247,3652,367,2024-12-03,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+248,9828,553,2025-02-27,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+249,7602,312,2024-12-19,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+250,3806,211,2025-08-23,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+251,8038,339,2025-01-23,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+252,1474,727,2025-07-02,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+253,9142,19,2025-04-04,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+254,184,480,2025-02-04,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+255,9804,538,2025-08-25,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+256,6015,526,2024-11-03,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+257,7503,88,2025-02-10,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+258,5376,332,2025-07-08,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+259,1649,20,2025-01-24,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+260,2106,484,2024-12-15,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+261,1656,330,2025-04-05,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+262,1138,40,2025-01-09,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+263,3673,413,2024-11-29,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+264,7140,539,2024-12-08,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+265,416,634,2025-06-11,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+266,5394,784,2024-10-28,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+267,1568,571,2025-03-05,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+268,9965,181,2024-09-18,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+269,289,267,2025-01-10,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+270,8147,247,2025-07-05,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+271,7030,397,2025-07-11,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+272,2867,287,2025-04-03,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+273,4911,592,2025-05-27,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+274,2794,548,2024-12-18,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+275,4509,880,2025-07-04,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+276,4968,36,2025-07-18,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+277,2220,985,2024-11-20,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+278,3723,396,2025-06-25,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+279,6324,294,2025-04-10,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+280,6563,173,2025-05-21,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+281,1464,157,2024-10-07,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+282,6971,572,2025-06-23,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+283,8769,332,2025-09-04,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+284,157,57,2024-11-24,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+285,9634,905,2025-02-18,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+286,5679,903,2025-06-04,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+287,6022,682,2025-08-28,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+288,1778,375,2024-10-11,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+289,7507,668,2025-02-20,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+290,4899,102,2024-10-04,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+291,2527,621,2025-03-06,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+292,3232,419,2025-03-18,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+293,485,940,2024-12-27,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+294,4105,576,2025-08-26,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+295,20,779,2025-01-25,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+296,3625,477,2025-04-16,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+297,52,336,2025-01-27,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+298,8522,339,2025-05-14,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+299,6372,751,2024-11-25,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+300,2212,905,2024-10-01,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+301,3762,647,2025-05-27,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+302,9321,783,2024-11-12,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+303,5917,189,2025-04-21,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+304,1182,467,2025-06-04,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+305,8723,486,2025-06-21,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+306,2540,784,2024-09-16,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+307,9628,488,2025-05-09,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+308,2064,376,2025-08-28,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+309,9983,576,2024-12-16,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+310,2198,315,2025-05-18,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+311,2201,730,2024-11-17,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+312,5497,797,2025-02-04,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+313,8883,897,2025-07-19,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+314,1665,56,2024-12-15,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+315,1873,430,2024-12-08,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+316,5804,826,2025-01-16,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+317,9969,142,2024-10-14,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+318,8026,487,2025-05-07,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+319,4622,850,2024-12-08,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+320,8375,547,2025-03-17,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+321,5822,306,2025-09-07,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+322,9983,3,2025-05-09,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+323,6680,871,2024-10-13,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+324,9101,202,2025-06-28,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+325,6763,675,2025-03-28,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+326,9231,899,2025-03-25,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+327,1525,642,2025-03-26,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+328,5339,285,2024-11-07,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+329,4297,149,2024-11-14,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+330,6744,472,2025-02-05,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+331,4119,308,2025-03-20,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+332,2120,175,2025-06-28,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+333,3880,195,2025-04-21,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+334,9438,932,2025-01-17,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+335,7326,689,2024-09-28,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+336,6046,757,2025-02-01,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+337,8525,995,2025-06-02,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+338,9642,306,2025-04-19,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+339,8091,366,2025-03-02,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+340,1725,638,2025-02-26,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+341,8332,60,2024-11-13,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+342,2820,912,2025-01-22,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+343,7599,775,2025-09-12,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+344,8020,120,2025-07-03,"El producto superó mis expectativas, muy recomendable.",Positiva,5,EncuestaInterna
+345,9873,265,2025-05-09,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+346,4598,682,2025-08-13,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+347,1028,212,2025-02-10,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+348,5367,358,2025-01-08,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+349,3371,350,2025-08-06,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+350,1803,712,2024-12-26,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+351,155,268,2024-09-14,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+352,3850,571,2025-06-21,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,2,EncuestaInterna
+353,6808,861,2025-04-11,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+354,9769,75,2025-07-04,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+355,2448,995,2024-12-20,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+356,3909,47,2025-04-18,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+357,1695,466,2024-09-25,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+358,5005,24,2025-01-05,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+359,1204,274,2025-01-10,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+360,2670,621,2025-01-28,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+361,6744,532,2025-07-27,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+362,7338,639,2025-04-20,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+363,4923,126,2025-02-28,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+364,8070,635,2025-02-21,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+365,9338,529,2024-10-08,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+366,8373,511,2025-07-23,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+367,8810,582,2025-05-31,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+368,7159,594,2025-01-15,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+369,5612,150,2025-03-30,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+370,3142,613,2025-07-17,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+371,5033,510,2025-07-10,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+372,5139,800,2025-01-01,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+373,3968,169,2025-06-25,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+374,4662,970,2025-05-05,"Mala calidad, no lo recomiendo para nada.",Negativa,2,EncuestaInterna
+375,5305,720,2024-10-24,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+376,9894,638,2025-05-28,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+377,173,757,2024-11-03,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+378,9721,876,2025-03-05,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+379,5477,39,2025-05-19,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+380,8395,50,2024-12-18,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+381,954,517,2025-08-19,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+382,1935,744,2025-01-08,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+383,2173,865,2025-09-02,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+384,4173,476,2024-09-26,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+385,243,654,2024-10-25,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+386,5500,773,2025-05-13,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+387,1575,259,2025-08-02,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+388,9586,95,2024-12-03,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+389,3625,38,2025-09-04,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+390,3879,610,2025-06-28,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+391,988,54,2025-01-06,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+392,5882,166,2025-01-15,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+393,3613,520,2024-10-09,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+394,4422,567,2025-04-26,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+395,1812,483,2024-10-12,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+396,5135,929,2025-08-26,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+397,2083,618,2025-06-25,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+398,2908,224,2025-05-05,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+399,195,444,2025-03-28,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+400,6022,836,2025-08-08,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+401,6761,319,2025-01-06,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+402,9146,336,2024-09-20,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+403,1042,323,2025-07-16,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+404,9238,453,2025-06-23,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+405,2424,215,2025-03-05,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+406,5496,789,2025-05-05,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+407,9736,307,2025-04-26,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+408,4299,601,2025-04-01,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+409,4857,985,2024-11-25,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+410,4832,698,2025-07-29,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+411,1973,95,2025-08-04,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+412,572,364,2025-08-28,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+413,5564,213,2024-10-21,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+414,7905,689,2025-06-19,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+415,9169,632,2025-08-15,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+416,1889,996,2024-10-21,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+417,795,722,2024-10-25,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+418,2993,190,2024-09-22,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,5,EncuestaInterna
+419,4875,412,2025-08-15,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+420,3696,840,2025-03-18,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+421,4235,274,2025-06-02,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+422,1345,790,2024-11-16,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+423,8581,624,2025-07-09,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+424,2206,360,2024-10-16,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+425,3911,979,2025-06-10,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+426,5650,246,2024-09-26,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+427,4433,703,2025-07-25,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+428,5782,466,2025-09-14,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+429,3343,949,2025-07-24,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+430,5994,560,2025-06-27,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+431,4155,326,2024-10-04,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+432,9780,56,2025-04-29,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+433,5499,708,2025-04-12,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+434,120,519,2025-03-28,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+435,6982,605,2025-08-07,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+436,6273,288,2025-01-15,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+437,7972,903,2024-10-30,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+438,7823,671,2024-12-25,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+439,1638,22,2024-09-19,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+440,4715,591,2024-10-09,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+441,1001,429,2025-05-06,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+442,470,29,2025-07-02,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+443,4091,96,2024-10-07,"La experiencia fue aceptable, aunque podría mejorar.",Neutra,3,EncuestaInterna
+444,2462,246,2025-01-06,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+445,5433,630,2024-12-16,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+446,5698,752,2024-11-18,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+447,725,332,2024-09-27,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+448,6326,714,2025-06-25,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+449,8007,481,2024-11-04,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+450,5843,954,2025-09-08,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+451,679,505,2024-09-26,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+452,7935,160,2025-01-19,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+453,9714,111,2024-09-19,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+454,4806,374,2024-10-04,El producto llegó en perfecto estado y antes de tiempo.,Positiva,5,EncuestaInterna
+455,101,864,2024-10-13,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+456,8025,209,2025-02-13,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+457,9594,225,2025-08-21,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+458,9557,482,2025-07-13,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+459,5931,795,2025-01-22,El servicio fue lento y el soporte no resolvió mi problema.,Negativa,1,EncuestaInterna
+460,8303,353,2025-05-04,"Excelente calidad, definitivamente volvería a comprar.",Positiva,5,EncuestaInterna
+461,1690,330,2025-04-27,El producto llegó en perfecto estado y antes de tiempo.,Positiva,4,EncuestaInterna
+462,1272,302,2025-05-09,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+463,6996,229,2024-10-09,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+464,4664,13,2025-04-11,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+465,6838,818,2024-10-07,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+466,9041,318,2025-09-07,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+467,8552,400,2024-09-24,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+468,8023,73,2025-08-08,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+469,2686,240,2025-06-11,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+470,4841,532,2025-08-07,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+471,4129,715,2024-11-01,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+472,3243,75,2025-04-08,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+473,9872,704,2024-09-18,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna
+474,2634,659,2024-12-24,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+475,4755,340,2025-03-03,"El producto cumple su función, nada especial.",Neutra,3,EncuestaInterna
+476,6382,864,2025-03-22,"Me encanta, es justo lo que necesitaba.",Positiva,5,EncuestaInterna
+477,5665,668,2025-06-06,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+478,2589,255,2025-04-03,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+479,581,507,2025-04-11,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+480,4775,970,2025-02-11,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+481,6287,586,2024-11-23,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+482,3485,474,2025-01-22,"No era lo que esperaba, muy decepcionado.",Negativa,1,EncuestaInterna
+483,6852,287,2025-01-02,"Ni malo ni excelente, simplemente regular.",Neutra,3,EncuestaInterna
+484,3626,80,2025-01-24,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+485,5102,67,2025-05-06,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,1,EncuestaInterna
+486,1585,584,2024-12-26,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+487,3087,969,2025-06-27,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+488,6971,659,2025-07-24,El producto dejó de funcionar al poco tiempo de usarlo.,Negativa,2,EncuestaInterna
+489,9147,858,2025-08-07,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+490,3187,271,2025-04-26,"No era lo que esperaba, muy decepcionado.",Negativa,2,EncuestaInterna
+491,4808,844,2025-03-24,"El envío fue normal, dentro del tiempo esperado.",Neutra,3,EncuestaInterna
+492,1707,637,2024-09-17,"Me encanta, es justo lo que necesitaba.",Positiva,4,EncuestaInterna
+493,23,989,2024-12-27,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+494,1829,702,2025-03-29,"Excelente calidad, definitivamente volvería a comprar.",Positiva,4,EncuestaInterna
+495,8255,550,2025-01-12,El producto llegó dañado y no cumplió con lo prometido.,Negativa,1,EncuestaInterna
+496,2257,480,2025-03-26,"El producto superó mis expectativas, muy recomendable.",Positiva,4,EncuestaInterna
+497,2487,609,2025-04-05,El producto llegó dañado y no cumplió con lo prometido.,Negativa,2,EncuestaInterna
+498,6079,90,2025-01-28,"El servicio fue rápido y eficiente, estoy muy satisfecho.",Positiva,4,EncuestaInterna
+499,9732,140,2025-06-13,"Mala calidad, no lo recomiendo para nada.",Negativa,1,EncuestaInterna
+500,9572,96,2025-03-01,"El producto está bien, pero esperaba un poco más de calidad.",Neutra,3,EncuestaInterna

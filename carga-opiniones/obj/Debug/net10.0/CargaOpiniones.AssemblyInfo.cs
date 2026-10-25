@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CargaOpiniones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b8b3db3245fd00e0a98579db3c3f86a7d14e82e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7543dd845ac96f7c72987f7d015696b7818a77a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CargaOpiniones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CargaOpiniones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

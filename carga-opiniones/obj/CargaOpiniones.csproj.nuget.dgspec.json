@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\CargaOpiniones\\CargaOpiniones.csproj": {}
+    "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\carga-opiniones\\CargaOpiniones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\CargaOpiniones\\CargaOpiniones.csproj": {
+    "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\carga-opiniones\\CargaOpiniones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\CargaOpiniones\\CargaOpiniones.csproj",
+        "projectUniqueName": "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\carga-opiniones\\CargaOpiniones.csproj",
         "projectName": "CargaOpiniones",
-        "projectPath": "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\CargaOpiniones\\CargaOpiniones.csproj",
+        "projectPath": "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\carga-opiniones\\CargaOpiniones.csproj",
         "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\CargaOpiniones\\obj\\",
+        "outputPath": "C:\\Users\\steph\\Documents\\GitHub\\proyectos-itla\\carga-opiniones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
