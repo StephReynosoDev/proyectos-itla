@@ -25,6 +25,10 @@ body.modo-claro button {
     color: #fff;
 }
 
+body.modo-claro .desc-galeria {
+    color: #333;
+}
+
 header {
     background-color: #06091c;
     padding: 20px;
@@ -86,11 +90,21 @@ section {
     margin-top: 20px;
 }
 
+.galeria-item {
+    padding: 10px;
+}
+
 .galeria-item img {
     width: 100%;
     height: 200px;
     object-fit: cover;
     border-radius: 8px;
+}
+
+.desc-galeria {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #7fa8d9;
 }
 
 button {
