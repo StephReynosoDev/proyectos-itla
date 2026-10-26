@@ -25,6 +25,10 @@ body.modo-claro button {
     color: #fff;
 }
 
+body.modo-claro button:hover {
+    background-color: #0056b3;
+}
+
 body.modo-claro .desc-galeria {
     color: #333;
 }
