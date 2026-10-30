@@ -5,7 +5,7 @@ body {
 }
 
 .contenedor {
-    background-color: white;
+    background-color: rgb(155, 200, 221);
     max-width: 400px;
     margin: 0 auto;
     padding: 20px;
